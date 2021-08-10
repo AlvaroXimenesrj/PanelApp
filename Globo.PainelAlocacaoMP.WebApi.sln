@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.ServiceApi", "1.ServiceApi", "{1C7C194C-000E-46ED-99AE-147FD75A094C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globo.ServiceApi", "src\Globo.ServiceApi\Globo.ServiceApi.csproj", "{067FFE18-CC09-498B-A766-CFACFF4897E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{067FFE18-CC09-498B-A766-CFACFF4897E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067FFE18-CC09-498B-A766-CFACFF4897E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067FFE18-CC09-498B-A766-CFACFF4897E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067FFE18-CC09-498B-A766-CFACFF4897E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{067FFE18-CC09-498B-A766-CFACFF4897E9} = {1C7C194C-000E-46ED-99AE-147FD75A094C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EB1B310-F143-4252-AE27-96C7888556E8}
+	EndGlobalSection
+EndGlobal
